@@ -1,0 +1,16 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Obsidian per-machine config & trash (vault content itself IS committed)
+.obsidian/
+**/.obsidian/
+.trash/
+**/.trash/
